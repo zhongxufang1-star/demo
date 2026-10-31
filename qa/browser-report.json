@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "choiceCount": 47,
+  "scores": [
+    100,
+    70.83333333333333,
+    79.16666666666667,
+    60,
+    100,
+    65.33333333333333,
+    77.5
+  ],
+  "money": 8,
+  "spent": 292,
+  "consoleErrors": [],
+  "offline": true,
+  "mobileNoHorizontalOverflow": true
+}

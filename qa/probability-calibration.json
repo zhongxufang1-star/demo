@@ -1,0 +1,130 @@
+[
+  {
+    "normal": 0.35,
+    "good": 0.4,
+    "bad": 0.25,
+    "policy": "random35",
+    "winRate": 0.51468,
+    "meanScore": 567.6211916666605
+  },
+  {
+    "normal": 0.35,
+    "good": 0.4,
+    "bad": 0.25,
+    "policy": "cheap",
+    "winRate": 0.58044,
+    "meanScore": 574.0905583333298
+  },
+  {
+    "normal": 0.35,
+    "good": 0.4,
+    "bad": 0.25,
+    "policy": "need",
+    "winRate": 0.58025,
+    "meanScore": 570.8785116666696
+  },
+  {
+    "normal": 0.35,
+    "good": 0.4,
+    "bad": 0.25,
+    "policy": "buyAllAffordable",
+    "winRate": 0.58429,
+    "meanScore": 575.9165916666633
+  },
+  {
+    "normal": 0.35,
+    "good": 0.35,
+    "bad": 0.3,
+    "policy": "random35",
+    "winRate": 0.23972,
+    "meanScore": 532.7479300000024
+  },
+  {
+    "normal": 0.35,
+    "good": 0.35,
+    "bad": 0.3,
+    "policy": "cheap",
+    "winRate": 0.28872,
+    "meanScore": 539.8954033333312
+  },
+  {
+    "normal": 0.35,
+    "good": 0.35,
+    "bad": 0.3,
+    "policy": "need",
+    "winRate": 0.28286,
+    "meanScore": 537.3255516666686
+  },
+  {
+    "normal": 0.35,
+    "good": 0.35,
+    "bad": 0.3,
+    "policy": "buyAllAffordable",
+    "winRate": 0.29667,
+    "meanScore": 540.6389950000024
+  },
+  {
+    "normal": 0.35,
+    "good": 0.32,
+    "bad": 0.33,
+    "policy": "random35",
+    "winRate": 0.12478,
+    "meanScore": 510.7673233333293
+  },
+  {
+    "normal": 0.35,
+    "good": 0.32,
+    "bad": 0.33,
+    "policy": "cheap",
+    "winRate": 0.15583,
+    "meanScore": 518.1410733333372
+  },
+  {
+    "normal": 0.35,
+    "good": 0.32,
+    "bad": 0.33,
+    "policy": "need",
+    "winRate": 0.1483,
+    "meanScore": 515.7019599999982
+  },
+  {
+    "normal": 0.35,
+    "good": 0.32,
+    "bad": 0.33,
+    "policy": "buyAllAffordable",
+    "winRate": 0.16488,
+    "meanScore": 518.3124766666707
+  },
+  {
+    "normal": 0.35,
+    "good": 0.3,
+    "bad": 0.35,
+    "policy": "random35",
+    "winRate": 0.07393,
+    "meanScore": 495.71064166666383
+  },
+  {
+    "normal": 0.35,
+    "good": 0.3,
+    "bad": 0.35,
+    "policy": "cheap",
+    "winRate": 0.09503,
+    "meanScore": 503.1890533333364
+  },
+  {
+    "normal": 0.35,
+    "good": 0.3,
+    "bad": 0.35,
+    "policy": "need",
+    "winRate": 0.0885,
+    "meanScore": 500.74651833333843
+  },
+  {
+    "normal": 0.35,
+    "good": 0.3,
+    "bad": 0.35,
+    "policy": "buyAllAffordable",
+    "winRate": 0.10114,
+    "meanScore": 502.99639333333397
+  }
+]

@@ -1,0 +1,1 @@
+{"name":"a-little-time-demo","version":"0.1.0","private":true,"description":"PRD 1.0 / v7, dependency-free playable browser demo","scripts":{"start":"node server.cjs","test":"node --test tests/engine.test.cjs","assets":"node tools/build-assets.cjs"},"engines":{"node":">=18"}}

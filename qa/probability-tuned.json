@@ -1,0 +1,34 @@
+[
+  {
+    "normal": 0.35,
+    "good": 0.385,
+    "bad": 0.265,
+    "policy": "random35",
+    "winRate": 0.42603,
+    "meanScore": 557.5158266666534
+  },
+  {
+    "normal": 0.35,
+    "good": 0.385,
+    "bad": 0.265,
+    "policy": "cheap",
+    "winRate": 0.48973,
+    "meanScore": 564.2145316666661
+  },
+  {
+    "normal": 0.35,
+    "good": 0.385,
+    "bad": 0.265,
+    "policy": "need",
+    "winRate": 0.48742,
+    "meanScore": 561.2521850000027
+  },
+  {
+    "normal": 0.35,
+    "good": 0.385,
+    "bad": 0.265,
+    "policy": "buyAllAffordable",
+    "winRate": 0.49675,
+    "meanScore": 565.7239583333381
+  }
+]
